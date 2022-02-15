@@ -1,0 +1,8 @@
+comence creando las variables
+ Salario, edad, edad_c, hijo, recargos, total, salir, eleccion, nombre
+ comenzamos con el ciclo do while con la variablke salir
+ comenzamos preguntando su nombre, edad
+y hacemos lo de edad por if y else si su edad es mayor a 18 comenzamos a pedir su salario,y creamos un if else y dependiendo su edad le daremos un recargo conforme a su salario.
+y si es menor de edad le manda la preguntsa si queire continuar o salir
+despues hacemos un case que le preguntamos si tiene esposa y cuantos años tiene su esposa y hacemos , y despues otro case para preguntar si tiene hijos y cuantos hijos tiene.
+y al final del programa les damos los datos de su nombre, recargos y su total
